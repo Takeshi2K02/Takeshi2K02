@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Takeshi Dilshan
+- 👀 I’m interested in learning and discovering new things
+- 🌱 I’m currently an undergraduate at SLIIT University - Sri Lanka
+- 💞️ I’m looking to collaborate with and developers
+- 📫 You can reach me by takeshidilshan10@gmail.com
