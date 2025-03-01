@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Proactive AI Agent**
 
-- 🌱 I’m currently learning **Flask**
+- 🌱 I’m currently learning **AI Agents Implementation**
 
 - 📫 How to reach me **takeshidilshan10@gmail.com**
 
