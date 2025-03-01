@@ -5,7 +5,7 @@
 
 ---
 
-- 🔭 I’m currently working on **Recommendation System**
+- 🔭 I’m currently working on **Proactive AI Agent**
 
 - 🌱 I’m currently learning **Flask**
 
