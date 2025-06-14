@@ -5,7 +5,7 @@
 
 ---
 
-- 🔭 I’m currently working on **Proactive AI Agent**
+- 🔭 I’m currently working on **Proactive AI Agents and multi agent models**
 
 - 🌱 I’m currently learning **AI Agents Implementation**
 
