@@ -51,10 +51,28 @@
 
 ---
 
-## 📊 GitHub Activity  
-| <img src="https://github-readme-stats.vercel.app/api?username=Takeshi2K02&show_icons=true&theme=tokyonight" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=Takeshi2K02&theme=tokyonight" /> |
-| --- | --- |
-| <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Takeshi2K02&theme=tokyonight" /></p> | <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Takeshi2K02&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight" /></p> |
+## 📊 GitHub Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=takeshi2k02&show_icons=true&theme=tokyonight"
+    alt="Takeshi's GitHub stats"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=takeshi2k02&theme=tokyonight"
+    alt="Takeshi's GitHub streak"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=takeshi2k02&layout=compact&theme=tokyonight"
+    alt="Top languages"
+  />
+</p>
 
 ---
 
