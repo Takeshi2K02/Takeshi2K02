@@ -23,6 +23,6 @@
 
 <h3 align="left">Takeshi's GitHub Activity Graph:</h3>
 
-| ![Takeshi's github stats](https://github-readme-stats.vercel.app/api?username=Takeshi2K02&show_icons=true&theme=tokyonight) | ![Takeshi GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Takeshi2K02&theme=tokyonight) |
+| ![Takeshi's github stats](https://github-readme-stats.vercel.app/api?username=Takeshi2K02&show_icons=true&theme=tokyonight) | [![GitHub Streak](https://streak-stats.demolab.com?user=Takeshi2K02&theme=dark)](https://git.io/streak-stats) |
 | --- | --- |
 | <p align="center"> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Takeshi2K02&theme=tokyonight) </p> | <p align="center"> ![Github Stars](https://github-readme-stats.vercel.app/api?username=Takeshi2K02&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) </p>|
