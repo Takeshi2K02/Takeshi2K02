@@ -54,24 +54,15 @@
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=takeshi2k02&show_icons=true&theme=tokyonight"
-    alt="Takeshi's GitHub stats"
-  />
+  <img src="https://github-readme-stats-git-master-shamimsplugins-projects.vercel.app/api?username=takeshi2k02&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=takeshi2k02&theme=tokyonight"
-    alt="Takeshi's GitHub streak"
-  />
+  <img src="https://streak-stats.demolab.com?user=takeshi2k02&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=takeshi2k02&layout=compact&theme=tokyonight"
-    alt="Top languages"
-  />
+  <img src="https://github-readme-stats-git-master-shamimsplugins-projects.vercel.app/api/top-langs/?username=takeshi2k02&layout=compact&theme=tokyonight" />
 </p>
 
 ---
